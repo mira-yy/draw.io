@@ -8,10 +8,25 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Q3FaeAJRbUA4iMhPdz4o" name="第 2 页">
-    <mxGraphModel dx="1181" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1181" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kb7xKFFGpgdT0ej-Du3h-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="330" width="630" x="110" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kb7xKFFGpgdT0ej-Du3h-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="240" width="140" x="180" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kb7xKFFGpgdT0ej-Du3h-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="240" width="140" x="400" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kb7xKFFGpgdT0ej-Du3h-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="核心1" vertex="1">
+          <mxGeometry height="30" width="60" x="180" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="kb7xKFFGpgdT0ej-Du3h-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CPU" vertex="1">
+          <mxGeometry height="30" width="60" x="130" y="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
